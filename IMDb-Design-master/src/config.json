@@ -1,0 +1,5 @@
+{
+  "common": "https://api.themoviedb.org/3/",
+  "genres": "/list?api_key=",
+  "apiKey": "?api_key="
+}
